@@ -31,3 +31,8 @@ table, th, td{
 nav.topnav li {
     list-style-type: none;
 }
+
+div {
+    font-size-adjust: 0.58;
+}
+
