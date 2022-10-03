@@ -1,0 +1,33 @@
+#mainBody {
+    background-color:beige;
+    }
+#secondPage {
+    background-color: lightskyblue;  
+}
+#ThirdPage {
+    background-color:   lightskyblue
+}
+#fourthPage {
+    background-color: bisque;
+}
+#fifthPage {
+    background-color: rgb(128, 94, 94);
+} 
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#section {
+    display: block;
+}
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+nav.topnav li {
+    list-style-type: none;
+}
