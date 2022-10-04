@@ -1,18 +1,24 @@
+/* this is the mainbody comment */
 #mainBody {
     background-color:beige;
     }
+/* secondPage comment */
 #secondPage {
     background-color: lightskyblue;  
 }
+/* thirdPage comment */
 #ThirdPage {
     background-color:   lightskyblue
 }
+/* fourthPage comment */
 #fourthPage {
     background-color: bisque;
 }
+/* fifthPage comment */
 #fifthPage {
     background-color: rgb(128, 94, 94);
-} 
+}
+/* center comment */ 
 
 .center {
     display: block;
@@ -20,21 +26,26 @@
     margin-right: auto;
     width: 50%;
 }
+/* section comment */
 #section {
     display: block;
 }
+/* tables comment */
 table, th, td{
     border:1px solid black;
     border-collapse: collapse;
 }
+/* nav comment */
 
 nav.topnav li {
     list-style-type: none;
 }
+/* div comment */
 
 div {
     font-size-adjust: 0.58;
 }
+/* class comment */
 [class$="test"] {
     background: #ffff00;
 }
