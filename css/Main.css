@@ -35,4 +35,6 @@ nav.topnav li {
 div {
     font-size-adjust: 0.58;
 }
-
+[class$="test"] {
+    background: #ffff00;
+}
