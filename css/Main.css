@@ -1,5 +1,6 @@
 /* this is the mainbody comment */
-#mainBody {
+@media screen and (min-width: 500px) 
+    #mainBody {
     background-color:beige;
     }
 /* secondPage comment */
