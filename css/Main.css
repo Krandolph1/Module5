@@ -1,10 +1,3 @@
-.footer {
-    background-color: #0099cc;
-    color: #ffffff;
-    text-align: center;
-    font-size: 12px;
-    padding: 15px;
-  }
 /* For desktop: */
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -81,3 +74,45 @@ video {
    max-width: 100;
    height:auto;
 }
+.footer {
+    background-color: #0099cc;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 15px;
+}
+/* Three images containers */ 
+.images {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  /*image */
+  .smallpicture {
+     width: 200px;    
+  }
+
+  div img {
+      width: 300px;
+  }
+
+  div.banner section {
+      /* border: 1px solid black; */
+  }
+
+  div.banner section div.column {
+      /* border: 3px solid red; */
+  }
+
+
